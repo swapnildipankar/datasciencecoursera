@@ -1,6 +1,4 @@
-* The program gives two files as output:
-- merged_output.txt
-- computed_mean_data_set.txt
+* The program gives two files as output: merged\_output.txt and computed\_mean\_data\_set.txt
 
 * Column Descriptions
 subject.id          <- values from (1-30)
